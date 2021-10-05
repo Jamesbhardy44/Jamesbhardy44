@@ -1,14 +1,11 @@
 - 👋 Hello, My name is James Hardy. Welcome to my GitHub Portfolio!         ---- @Jamesbhardy44  
 
-- I’m an aspiring junior python developer who is interested in leveraging python for networking and security. 
-- I am also interested in data analytics and server management; primarily using linux.
-- Skills: SQL, T-SQL, DDL/DML, JavaScript, html/css, Linux CLI, Python, Networking, Security. 
+- I have a Masters of Science in Computer Information Systems from Boston University.
+- I am currently working as a software engineer @Revature
+
+- Skills: .NET, C#, JAVA, SQL, T-SQL, DDL/DML, JavaScript, html/css, Linux CLI, Python, Networking, Security. 
 
 
-- I will graduate from Boston University with a Masters of Science in Computer Information Systems this August (2021). ...
-- You can see some of my work in my portfolio here on GitHub.
-
-- I’m looking to collaborate on anything related to python. I AM LOOKING FOR WORK...
 - 📫 How to reach me: Feel free to email me at jamesbhardy44@gmail.com...
 
 <!---
