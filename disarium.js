@@ -1,4 +1,4 @@
-var num = 175;
+var num = 271;
 const isDisarium = num => {
    const result = String(num)
    .split("")
