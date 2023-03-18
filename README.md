@@ -1,8 +1,10 @@
 -  Hello, My name is James Hardy. Welcome to my GitHub Portfolio. 
+
+    I am in the process of experimenting with new Artificial Intelligence Technologies.
     
     My projects include JavaScript, SQL, ServiceNow development files, Python, and others.
 
-I am currently working as a ServiceNow Developer, Admin, and Security Analyst for a big-4 accounting firm.
+    I am currently working as a ServiceNow Developer, Admin, and Security Analyst for a big-4 accounting firm.
 
   - Master's of Science in Computer Information Systems | Boston University
 
