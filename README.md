@@ -9,6 +9,7 @@
   - Master's of Science in Computer Information Systems | Boston University
 
   - Servicenow CSA | CAD | CIS ~ Security Incident Response
+  - If you're a fan of 'It's always sunny' check out my command line playable version of 'Chardeemacdennis!'
 
 <!---
 Jamesbhardy44/Jamesbhardy44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
