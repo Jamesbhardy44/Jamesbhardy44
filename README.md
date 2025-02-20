@@ -4,7 +4,7 @@
     
     My projects include JavaScript, SQL, ServiceNow development files, Python, and others.
 
-    I am currently working as a ServiceNow Developer, Admin, and Security Analyst for a big-4 accounting firm.
+    I am currently working as a ServiceNow Developer, Admin, and Security Analyst for a Healthcare Corp.
 
   - Master's of Science in Computer Information Systems | Boston University
 
